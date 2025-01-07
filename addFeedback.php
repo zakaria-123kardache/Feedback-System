@@ -1,3 +1,9 @@
+<?php
+
+include('./config/connexion.php');
+
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>

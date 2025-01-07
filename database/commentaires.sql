@@ -1,7 +1,7 @@
 
 
-CREATE DATABASE FeedbackSystem ;
-USE FeedbackSystem ;
+CREATE DATABASE Feedback ;
+USE Feedback ;
 
 CREATE TABLE commentaires (
     id INT AUTO_INCREMENT PRIMARY KEY,
