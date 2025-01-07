@@ -1,7 +1,5 @@
 <?php
-
 include('./config/connexion.php');
-
 ?>
 
 <!DOCTYPE html>
