@@ -1,5 +1,15 @@
 <?php
 include('./config/connexion.php');
+
+
+$name = $message = "";
+
+
+if ( $_SERVER["REQUEST_METHOD"] == "POST"){
+     
+}
+
+
 ?>
 
 <!DOCTYPE html>
